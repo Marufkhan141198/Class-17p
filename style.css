@@ -1,0 +1,21 @@
+.bg {
+    height: 500px;
+    border-radius: 2px;
+background-color: rgb(75, 154, 223);
+padding: auto;
+width: 100%;
+}
+.form {
+    padding: auto;
+}
+.inp {
+    color: brown;
+}
+.pad {
+    padding: auto;
+}
+.dv2 {
+    background-color: brown;
+    border-radius: 2px;
+    
+}
